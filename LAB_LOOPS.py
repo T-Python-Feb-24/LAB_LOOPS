@@ -9,7 +9,7 @@ for i in range(45, 210):
 question = 0
 answer = 7*24
 while question != answer:
-    question = int(input("What is the product of 7 * 24?"))
+    question = int(input("What is the product of 7 * 24?\n"))
     if question == answer:
         print("You answered this Question correctly")
         break
