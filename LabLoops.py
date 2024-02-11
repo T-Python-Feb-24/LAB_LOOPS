@@ -12,7 +12,7 @@ for elements in loops :
     print(elements)
     if elements == 205:
         break
-    print(elements)
+print(elements)
 
  
 
@@ -30,6 +30,3 @@ while int(input(question))!= 168 :
      
 else: 
     print("You answered this Question correctly")
-
-
-
